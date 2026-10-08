@@ -1,0 +1,4 @@
+fcsparser==0.2.8
+pandas==2.3.3
+jupyter==1.1.1
+pytest==9.1.1
