@@ -1,10 +1,7 @@
 # Automated Gating on the Levine 32-Marker CyTOF Dataset
 
-A learning project in automated gating of mass cytometry (CyTOF) data. Gating means
-assigning each cell to a cell type based on the markers it expresses, which is
-traditionally done by hand on 2D plots. This project works toward doing that in
-Python on a public bone marrow dataset, then checking the result against expert
-manual gating.
+A learning project in automated gating of mass cytometry (CyTOF) data. 
+This project works toward doing that in Python on a public bone marrow dataset.
 
 ## Dataset
 
@@ -22,8 +19,6 @@ data/
 ```
 
 ## Setup
-
-Requires Python 3.10.
 
 ```bash
 python -m venv .venv
